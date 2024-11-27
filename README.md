@@ -9,3 +9,5 @@ Office Deployment tool : https://www.microsoft.com/en-us/download/details.aspx?i
 
 Config Generator : https://config.office.com/deploymentsettings
 
+### ISO Modification
+
