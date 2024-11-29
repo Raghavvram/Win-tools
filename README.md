@@ -33,3 +33,7 @@ BloatBox : https://github.com/builtbybel/bloatbox
 ### Edge Remover
 
 EdgeRemove : https://github.com/he3als/EdgeRemover
+
+### Privacy
+
+Privacy : https://github.com/undergroundwires/privacy.sexy
