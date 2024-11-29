@@ -20,3 +20,11 @@ ChrisTitus Windows Utility : https://github.com/ChrisTitusTech/winutil
 
 
 ### Activator
+
+
+### App Debloat
+
+Bloatnosy : https://github.com/builtbybel/Bloatynosy
+
+
+
