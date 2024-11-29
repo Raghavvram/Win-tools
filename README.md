@@ -28,3 +28,8 @@ Bloatnosy : https://github.com/builtbybel/Bloatynosy
 
 
 BloatBox : https://github.com/builtbybel/bloatbox
+
+
+### Edge Remover
+
+EdgeRemove : https://github.com/he3als/EdgeRemover
