@@ -21,6 +21,7 @@ ChrisTitus Windows Utility : https://github.com/ChrisTitusTech/winutil
 
 ### Activator
 
+Microsoft-Activation-Scripts : https://github.com/massgravel/Microsoft-Activation-Scripts
 
 ### App Debloat
 
