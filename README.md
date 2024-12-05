@@ -37,3 +37,7 @@ EdgeRemove : https://github.com/he3als/EdgeRemover
 ### Privacy
 
 Privacy : https://github.com/undergroundwires/privacy.sexy
+
+### All-in-Game-Dependency
+
+PC-Gaming-Redists : https://github.com/harryeffinpotter/PC-Gaming-Redists
