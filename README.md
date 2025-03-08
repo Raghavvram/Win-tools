@@ -55,4 +55,4 @@ FXSound : https://www.fxsound.com/download
 
 ### Package Manager
 
-Chocolaty : 
+Chocolaty : https://chocolatey.org/install
