@@ -56,3 +56,5 @@ FXSound : https://www.fxsound.com/download
 ### Package Manager
 
 Chocolaty : https://chocolatey.org/install
+
+Scoop : 
