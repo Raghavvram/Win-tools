@@ -57,4 +57,4 @@ FXSound : https://www.fxsound.com/download
 
 Chocolaty : https://chocolatey.org/install
 
-Scoop : 
+Scoop : https://scoop.sh/
