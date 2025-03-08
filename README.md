@@ -48,3 +48,7 @@ PC-Gaming-Redists : https://github.com/harryeffinpotter/PC-Gaming-Redists
 Bleachbit : https://www.bleachbit.org/download
 
 BCUinstaller : https://www.bcuninstaller.com/
+
+### Volume Equilizer
+
+FXSound : 
