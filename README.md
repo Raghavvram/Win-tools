@@ -51,4 +51,4 @@ BCUinstaller : https://www.bcuninstaller.com/
 
 ### Volume Equilizer
 
-FXSound : 
+FXSound : https://www.fxsound.com/download
